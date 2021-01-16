@@ -6,6 +6,14 @@ herramienta para trabajar con direcciones IP desde windows
 
 ![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_124616.jpg)
 
+### Uso en Windows 
+'''
+Descargar el archivo, descomprimirlo y ejecutar el archivo CMD-IP.bat
+'''
+# Desactivar Antivirus
+El antivirus detecta esta herramienta como virus, pero no lo es, solo hace proscesos automáticos 
+
+# CONTENIDO
 - 1 [+] Grabify IP Logger
 - 2 [+] Mi ip actual
 - 3 [+] Ip de web
@@ -22,4 +30,6 @@ herramienta para trabajar con direcciones IP desde windows
 | Windows 7    | Compatible    |
 | Windows XP   | Compatible    |
 
-![sh]
+![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_155112.png)
+
+
