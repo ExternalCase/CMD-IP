@@ -28,7 +28,6 @@ El antivirus detecta esta herramienta como virus, pero no lo es, solo hace prosc
 | Windows 8.1  | Compatible    |
 | Windows 8    | Compatible    |
 | Windows 7    | Compatible    |
-| Windows XP   | Compatible    |
 
 ![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_155112.png)
 
