@@ -4,7 +4,7 @@ herramienta para trabajar con direcciones IP desde windows
 - Solo funciona para windows
 - Se requiere conexión a internet
 
-![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_124616.jpg)
+                       ![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_124616.jpg)
 
 ### Uso en Windows 
 '''
@@ -20,6 +20,12 @@ El antivirus detecta esta herramienta como virus, pero no lo es, solo hace prosc
 - 4 [+] Atacar IP por ping
 - 5 [+] IP Skype
 - 6 [+] Puertos Abiertos
+- 7 [+] DNS SCANER
+- 8 [+] IPCONFIG
+- 9 [+] ROUTE
+- 10 [+] Mini Virus
+
+# Sistemas Operativos Disponibles
  
  
  |     S.O      |   Estado      |
@@ -29,6 +35,7 @@ El antivirus detecta esta herramienta como virus, pero no lo es, solo hace prosc
 | Windows 8    | Compatible    |
 | Windows 7    | Compatible    |
 
+# Fotos 
 ![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_155112.png)
 
 
