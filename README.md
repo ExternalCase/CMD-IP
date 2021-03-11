@@ -36,6 +36,6 @@ El antivirus detecta esta herramienta como virus, pero no lo es, solo hace prosc
 | Windows 7    | Compatible    |
 
 # Fotos 
-![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_155112.png)
+![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210311_101625.png)
 
 
