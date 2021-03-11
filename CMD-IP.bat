@@ -19,7 +19,7 @@ echo  $$        $$  $$$  $$  $$    $$          $$    $$
 echo  $$    $$  $$   $   $$  $$    $$          $$    $$      
 echo   $$$$$$   $$       $$  $$$$$$$         $$$$$$  $$             
 echo.
-echo                       by :  David      
+echo                       by :  MhK4      
 echo.
 echo   1 [+] Grabify IP Logger       7 [+] DNS SCANER                         
 echo   2 [+] Mi ip actual            8 [+] IPCONFIG                      
