@@ -4,7 +4,7 @@ herramienta para trabajar con direcciones IP desde windows
 - Solo funciona para windows
 - Se requiere conexión a internet
 
-                       ![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_124616.jpg)
+![sh](https://github.com/Monkey-hk4/CMD-IP/blob/main/IMG_20210116_124616.jpg)
 
 ### Uso en Windows 
 '''
