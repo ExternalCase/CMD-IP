@@ -8,7 +8,7 @@ herramienta para trabajar con direcciones IP desde windows
 
 ### Uso en Windows 
 
-* ´Descargar el archivo, descomprimirlo y ejecutar el archivo CMD-IP.bat´
+* `Descargar el archivo, descomprimirlo y ejecutar el archivo CMD-IP.bat`
 
 # Desactivar Antivirus
 El antivirus detecta esta herramienta como virus, pero no lo es, solo hace proscesos automáticos 
